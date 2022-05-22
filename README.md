@@ -1,5 +1,8 @@
 ### Hi there 👋
 <div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=hz157&theme=xcode" />
+</div>
+<div align="center">
 	<img src="https://metrics.lecoq.io/hz157?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
