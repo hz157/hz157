@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/hz157">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(Hello+World);Have+a+nice+day%2C+hz157!)](https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(Hello+World);Have+a+nice+day%2C+hz157!)](https://git.io/typing-svg&center=true&size=27">
   </a>
 </h1>
 
