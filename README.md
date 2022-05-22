@@ -1,8 +1,10 @@
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Hello_World!);Have a nice day, Hz157.!&center=true&size=27">
-	</a>
+  <a href="https://github.com/hz157">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(Hello+World);Have+a+nice+day%2C+hz157!)](https://git.io/typing-svg">
+	  [![Typing SVG]()
+  </a>
 </h1>
+
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=hz157&theme=xcode" />
 </div>
